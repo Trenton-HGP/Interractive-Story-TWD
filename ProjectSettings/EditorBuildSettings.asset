@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Staring page.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Sub-start_1.unity
+    guid: 7eddd212e5f9a4d47a52df5139483d57
+  - enabled: 0
+    path: Assets/Scenes/Sub-start_2.unity
+    guid: 3b7bee8d42a7b41ea9116a7551529de1
+  - enabled: 1
+    path: Assets/Scenes/O1_S2.unity
+    guid: 46e387c5ef0a54c91b07a781b15baed5
+  - enabled: 1
+    path: Assets/Scenes/Sub-start_2.unity
+    guid: 01efae19fb70c49b8aa3d7900249bd7e
   m_configObjects: {}

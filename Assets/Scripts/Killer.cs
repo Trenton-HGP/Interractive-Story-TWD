@@ -4,11 +4,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class InvestigateScreaming : MonoBehaviour
+public class Killer : MonoBehaviour
 { 
    public void LoadAnotherScene()
    {
-       SceneManager.LoadScene("Sub-start_2");
+       SceneManager.LoadScene("O1_S2");
    }
 }
 
